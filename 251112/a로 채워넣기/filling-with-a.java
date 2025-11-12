@@ -8,7 +8,8 @@ public class Main {
 
         int n = arr.length;
 
-        if (n >= 2) {
+        if (n >= 2) 
+        {
             arr[1] = 'a';
             arr[n - 2] = 'a';
         }
